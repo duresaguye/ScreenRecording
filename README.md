@@ -44,7 +44,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/screen-recorder.git
+git clone https://github.com/duresaguye/screen-recorder.git
 Navigate to the project directory:
 
 bash
