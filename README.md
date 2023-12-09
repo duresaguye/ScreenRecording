@@ -38,25 +38,4 @@ Copy code
 pip install numpy
 pip install pyautogui
 pip install opencv-python
-Save to grepper
-Getting Started
-Clone this repository:
 
-bash
-Copy code
-git clone  https://github.com/duresaguye/ScreenRecording
-Navigate to the project directory:
-
-bash
-Copy code
-cd screen-recorder
-Run the screen recorder script:
-
-bash
-Copy code
-python screen_recorder.py
-Contributing
-Feel free to contribute to the development of this screen recorder project. Submit bug reports, suggest enhancements, or create pull requests. Your contributions are highly appreciated!
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
